@@ -5,7 +5,6 @@ atom-typescript
 autoclose-html
 browser-refresh
 git-plus
-html-helper
 htmlhint
 jshint
 jsonlint
