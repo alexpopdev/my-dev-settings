@@ -11,4 +11,4 @@ jsonlint
 language-fsharp
 linter
 open-in-browser
-
+terminal-plus
