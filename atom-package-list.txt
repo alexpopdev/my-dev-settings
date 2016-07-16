@@ -10,5 +10,7 @@ jshint
 jsonlint
 language-fsharp
 linter
+minimap
 open-in-browser
-terminal-plus
+platformio-ide-terminal
+
